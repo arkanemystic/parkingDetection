@@ -23,9 +23,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Create a new Pull Request
 
-## Acknowledgments
-
-- Special thanks to the OpenCV community for their invaluable contributions to computer vision technology.
-- Inspiration drawn from research and projects in the field of intelligent transportation systems.
-
 Sincerely, Devakh Rashie
